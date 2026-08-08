@@ -1,0 +1,13 @@
+Requirements 
+1. import pandas as pd 
+2. import pyodbc
+3. import sqlalchemy as sal
+4. from sqlalchemy import text
+5. from sqlalchemy import create_engine
+6. import logging 
+7. import os
+8. import time 
+9. from datetime import datetime
+10. Jupyter notebook 
+11. SQL Server Management Studios
+12. streamlit 
